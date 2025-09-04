@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mandhar Patil</h1>
-<h3 align="center">🚀 A Passionate DevOps Engineer from India </h3>
+<h1 align="center">Hi , I'm Mandhar Patil</h1>
+<h3 align="center"> A Passionate DevOps Engineer from India </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mandhar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mandhar-patil" />
@@ -7,12 +7,12 @@
 
 ---
 
-- 🌱 I’m currently learning **DevOps, Kubernetes, Istio, Argo CD, and GitOps**
-- 👯 I’m looking to collaborate on **Cloud Native, Terraform, and CI/CD Projects**
-- 🔧 Skilled in: **Linux | Kubernetes | Helm | Service Mesh | Argo CD | DevSecOps | Jenkins CI/CD | GitHub Actions | GitLab CI/CD | Terraform | Docker | Ansible | GitHub | GitLab | Prometheus | Grafana**
-- 💬 Ask me about: **Cloud Infrastructure, CI/CD, Kubernetes, or Monitoring**
-- 👨‍💻 All my work is available at: - 👨‍💻 All my work is available at: [GitHub](https://github.com/mandhar-patil) | [LinkedIn](https://www.linkedin.com/in/mandhar01/)
-- 📫 How to reach me: **patilmandhar42@gmail.com**
+-  I’m currently learning **DevOps, Kubernetes, Istio, Argo CD, and GitOps**
+-  I’m looking to collaborate on **Cloud Native, Terraform, and CI/CD Projects**
+-  Skilled in: **Linux | Kubernetes | Helm | Service Mesh | Argo CD | DevSecOps | Jenkins CI/CD | GitHub Actions | GitLab CI/CD | Terraform | Docker | Ansible | GitHub | GitLab | Prometheus | Grafana**
+-  Ask me about: **Cloud Infrastructure, CI/CD, Kubernetes, or Monitoring**
+-  All my work is available at: - 👨‍💻 All my work is available at: [GitHub](https://github.com/mandhar-patil) | [LinkedIn](https://www.linkedin.com/in/mandhar01/)
+-  How to reach me: **patilmandhar42@gmail.com**
 
 ---
 
