@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandhar Patil</h1>
-<h3 align="center">🚀 Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
+<h3 align="center"> Passionate DevOps Engineer | Cloud | Kubernetes | DevSecOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mandhar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="mandhar-patil" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 Currently learning **Advanced DevOps, Kubernetes, Istio, Argo CD & GitOps**
 - ☁️ Working with **Multi-Cloud Infrastructure (AWS & Azure)**
